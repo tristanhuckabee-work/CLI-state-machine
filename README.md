@@ -15,6 +15,7 @@ pip install .
 > You can uninstall with `pip uninstall statmach-py`
 
 `statmach-py` to run
+
 `statmach-py setup` to setup files
 
 ## Powershell Script

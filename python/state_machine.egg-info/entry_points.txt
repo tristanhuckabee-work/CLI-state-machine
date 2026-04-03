@@ -1,0 +1,2 @@
+[console_scripts]
+statmach-py = state_machine.cli:main

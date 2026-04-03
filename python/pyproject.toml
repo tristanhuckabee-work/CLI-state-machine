@@ -1,0 +1,7 @@
+[project]
+name = "state-machine"
+version = "0.0.1"
+dependencies = []
+
+[project.scripts]
+statmach-py = "state_machine.cli:main"
